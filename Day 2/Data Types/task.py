@@ -1,1 +1,6 @@
-len("Hello")
+print("HELLO"[-2])
+print("1234"+ "456")
+print(123_123_45)
+print(True)
+print(False)
+print("444")
