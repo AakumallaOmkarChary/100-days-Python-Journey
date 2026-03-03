@@ -72,7 +72,7 @@ print(placeholder)
 game_over = False
 correct_letters = []
 
- while not game_over:
+while not game_over:
     guess = input("Guess a letter: ").lower()
 
     display = ""
@@ -89,7 +89,7 @@ correct_letters = []
 
     # TODO-2: - If guess is not a letter in the chosen_word, Then reduce 'lives' by 1.
     #  If lives goes down to 0 then the game should stop and it should print "You lose."
- if guess not in chosen_word:
+#  if guess not in chosen_word:
     lives -= 1
     if lives == 0:
         game_over = True
