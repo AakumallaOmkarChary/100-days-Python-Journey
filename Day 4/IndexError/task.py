@@ -8,3 +8,4 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
                      "New Mexico", "Arizona", "Alaska", "Hawaii"]
 
 print(len(states_of_america))
+print(random.choice(states_of_america))

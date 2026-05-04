@@ -1,7 +1,7 @@
 
 import random
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
-random_friends=random.randint(0,4)
+#random_friends=random.randint(0,4)
 '''if random_friends==0:
     print("Alice")
 elif random_friends==1:

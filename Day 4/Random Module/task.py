@@ -10,5 +10,7 @@ if random_heads_or_tails == 0:
     print("Heads")
 elif random_heads_or_tails == 2:
     print("tail")
+
 else:
     print("ideal")
+    print ("omkar")

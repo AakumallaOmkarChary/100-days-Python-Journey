@@ -1,4 +1,4 @@
 total = 0
-for number in range(1, 1021):
+for number in range(1, 101  ):
     total =total+ number
 print(total)
