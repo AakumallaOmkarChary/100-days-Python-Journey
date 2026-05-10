@@ -13,3 +13,4 @@ def greet_with(name,location):
     print(f"what is it like in {location}")
 #greet_with("omkar","hyd")
 greet_with(location="New York",name="anusha")
+greet_with('hyd','omkar')
